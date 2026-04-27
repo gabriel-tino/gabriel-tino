@@ -4,15 +4,15 @@
 
 <h1 align="left">Olá👋 Como vai?</h1>
 
-<p align="left">Meu nome é Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Atualmente, busco oportunidades de estágio nas áreas de <strong>Governança de TI, Infraestrutura e Redes</strong>, com foco em garantir a disponibilidade, segurança e conformidade de ambientes tecnológicos.</p>
+<p align="left">Meu nome é Gabriel, estudante de Análise e Desenvolvimento de Sistemas. Atualmente, busco oportunidades de estágio focadas em <strong>Suporte Técnico e Governança de TI</strong>, unindo a resolução prática de problemas com a gestão eficiente de processos e ativos.</p>
 
 <h2 align="left">Sobre mim</h2>
 
 <p align="left">
-🚀 Transicionando para o coração da tecnologia: Infraestrutura e Governança.<br><br>
-🌐 Recentemente concluí o <b>Introduction to Networks</b> pela Cisco Networking Academy e estou me aprofundando em protocolos de rede, modelo OSI e administração de sistemas.<br><br>
-🛡️ Meu objetivo é atuar na gestão de ativos, suporte técnico especializado e implementação de boas práticas de Governança de TI (ITIL/COBIT) para otimizar processos internos.<br><br>
-🎯 Busco um estágio onde eu possa aplicar meus conhecimentos em redes e suporte para construir infraestruturas resilientes e eficientes.
+💻 Atualmente, estou focado em aprender as melhores práticas de <b>Suporte ao Usuário</b> e troubleshooting de hardware e software.<br><br>
+🌐 Recentemente concluí o <b>Network Support and Security</b> pela Cisco Networking Academy e estou me aprofundando Governança, fazendo o curso <b>Introduction to Cybersecurity<b> pela Cisco Networking Academy.<br><br>
+🛡️ Tenho grande interesse em <b>Governança de TI</b>, estudando como processos bem estruturados podem otimizar a gestão de serviços e a segurança da informação.<br><br>
+🎯 Busco minha primeira oportunidade de estágio para colocar em prática minha capacidade analítica e proatividade na resolução de problemas técnicos.
 </p>
 
 <h2 align="left">Tecnologias e Ferramentas:</h2>
